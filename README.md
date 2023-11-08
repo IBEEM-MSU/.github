@@ -6,5 +6,6 @@ email: ibeem@msu.edu
 Funding: Michigan State University (Strategic Partnership Grant)
 
 Directors: Phoebe Zarnetske, Patricia Soranno
-PI: Phoebe Zarnetske
+
+PI: Phoebe Zarnetske 
 Co-PIs: Kyla Dahlin, Elise Zipkin, Kendra Cheruvelil, Patricia Soranno

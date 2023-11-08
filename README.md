@@ -1,6 +1,6 @@
 # IBEEM: The MSU Institute for Biodiversity, Ecology, Evolution, and Macrosystems
 
-website: [www.ibeem.msu.edu](https://ibeem.msu.edu/)https://ibeem.msu.edu/
+website: [www.ibeem.msu.edu](https://ibeem.msu.edu/)
 email: ibeem@msu.edu
 
 Funding: Michigan State University (Strategic Partnership Grant)
